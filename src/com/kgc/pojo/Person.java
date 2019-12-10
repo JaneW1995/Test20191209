@@ -12,6 +12,6 @@ public class Person {
     private String id;
     private String name;
     private String sex;
-
+    private String phone;
 
 }
